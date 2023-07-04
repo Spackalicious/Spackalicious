@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 I’m currently working on my bachelor's in Applied Tech. I've completed certificates in Web Frontend Dev and Databases, and almost done my certificate in Web Backend. Slight perfectionist tendencies over here, and my grades are almost flawless 🙃
+- 💻 I’m currently working on my bachelor's in Applied Tech. I've completed certificates in Web Frontend Dev and Databases, and am almost done my certificate in Web Backend. Slight perfectionist tendencies over here, and my grades are almost flawless 🙃
 
 - 👣 Fun fact: I'm also a homeschool mom of 3, going on 8 years now. Best decision ever, wonderful memories behind us, and fantastic times ahead! 
 
